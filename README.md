@@ -4,8 +4,8 @@ This project aims to apply instruction-tuning and PEFT (Parameter-Efficient Fine
 # Data Source
 The data we used comes from The University of Chicago Medicine. The original dataset contains 1 million medical radiology reports including clinical information, radiology finding, and medical impression sections and is in json format.
 
-# Hardware Condition
-- 1 x NVIDIA Tesla A100 GPU, 12 vCPUs, 85GB RAM
+# Computing Resources Used
+- 1 x NVIDIA Tesla A100 GPU, 12 vCPUs, 85GB RAM (Google Cloud- Vertex AI)
 
 # Base Model Extended
 - MedAlpaca 7b
