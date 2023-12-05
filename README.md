@@ -10,6 +10,7 @@ The data we used comes from The University of Chicago Medicine. The original dat
 # Base Model Extended
 - MedAlpaca 7b
 - BioGPT
+- LlaMa-2
 
 # Model Hub
 All trained and tuned LLM models are stored in my personal Huggingface storage. The link can be find here: https://huggingface.co/Danieljyc
